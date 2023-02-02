@@ -2,3 +2,6 @@
 .pxls {
     margin-top: -15px;
 }
+.nav-tabs{
+    --bs-border-width: 0;
+}
