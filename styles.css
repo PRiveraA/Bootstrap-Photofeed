@@ -1,7 +1,12 @@
-/* Makes logo a little higher */
+/* Makes logo higher */
 .pxls {
     margin-top: -15px;
 }
+
 .nav-tabs{
     --bs-border-width: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
 }
