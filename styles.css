@@ -10,3 +10,20 @@
 ::-webkit-scrollbar {
     display: none;
 }
+
+.lead {
+    font-size: 1.70rem;
+    font-weight: 400;
+}
+
+.small {
+    font-size: .94rem;
+}
+
+.fw-bold .mb-0 {
+    margin-bottom: -16px;
+}
+
+.card-footer {
+    line-height: .50rem;
+}
